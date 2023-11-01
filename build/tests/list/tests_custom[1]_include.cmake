@@ -1,0 +1,5 @@
+if(EXISTS "/Users/sdebruijn/Desktop/APC/assignment_04/build/tests/list/tests_custom[1]_tests.cmake")
+  include("/Users/sdebruijn/Desktop/APC/assignment_04/build/tests/list/tests_custom[1]_tests.cmake")
+else()
+  add_test(tests_custom_NOT_BUILT tests_custom_NOT_BUILT)
+endif()

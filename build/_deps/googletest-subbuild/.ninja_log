@@ -1,0 +1,21 @@
+# ninja log v5
+1	10	1698843436720256972	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7684fae971bfba7f
+1	10	1698843436720256972	/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	7684fae971bfba7f
+10	3989	1698843440699034467	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	7eb54a83b5914e3f
+10	3989	1698843440699034467	/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	7eb54a83b5914e3f
+3989	4011	0	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	833751c37e2e44c1
+3989	4011	0	/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	833751c37e2e44c1
+4011	4019	1698843440729622353	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	4d4a51f9fed726c2
+4011	4019	1698843440729622353	/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	4d4a51f9fed726c2
+4020	4028	1698843440737796458	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f7136f67b159c4c8
+4020	4028	1698843440737796458	/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f7136f67b159c4c8
+4028	4035	1698843440745476283	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	e1ec0dc9b81eca35
+4028	4035	1698843440745476283	/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	e1ec0dc9b81eca35
+4035	4043	1698843440753209107	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	7a56b4f32d3cf84e
+4035	4043	1698843440753209107	/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	7a56b4f32d3cf84e
+4043	4051	1698843440761038886	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	a747a5f3d8ba098d
+4043	4051	1698843440761038886	/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	a747a5f3d8ba098d
+4051	4065	1698843440774604452	CMakeFiles/googletest-populate-complete	15aa85f609e36ba
+4051	4065	1698843440774604452	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	15aa85f609e36ba
+4051	4065	1698843440774604452	/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	15aa85f609e36ba
+4051	4065	1698843440774604452	/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	15aa85f609e36ba

@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/Users/sdebruijn/Desktop/APC/assignment_04/build",
+  "command": "/usr/bin/clang++ -I/Users/sdebruijn/Desktop/APC/assignment_04/lib_ds/include -g -std=gnu++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wall -Wextra -Wpedantic -Werror -O0 -g3 -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -o lib_ds/CMakeFiles/dummy.dir/dummy.cpp.o -c /Users/sdebruijn/Desktop/APC/assignment_04/lib_ds/dummy.cpp",
+  "file": "/Users/sdebruijn/Desktop/APC/assignment_04/lib_ds/dummy.cpp",
+  "output": "lib_ds/CMakeFiles/dummy.dir/dummy.cpp.o"
+},
+{
+  "directory": "/Users/sdebruijn/Desktop/APC/assignment_04/build",
+  "command": "/usr/bin/clang++ -I/Users/sdebruijn/Desktop/APC/assignment_04/lib_ds/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wall -Wextra -Wpedantic -Werror -O0 -g3 -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -o tests/list/CMakeFiles/tests_custom.dir/test_runner.cpp.o -c /Users/sdebruijn/Desktop/APC/assignment_04/tests/list/test_runner.cpp",
+  "file": "/Users/sdebruijn/Desktop/APC/assignment_04/tests/list/test_runner.cpp",
+  "output": "tests/list/CMakeFiles/tests_custom.dir/test_runner.cpp.o"
+},
+{
+  "directory": "/Users/sdebruijn/Desktop/APC/assignment_04/build",
+  "command": "/usr/bin/clang++ -I/Users/sdebruijn/Desktop/APC/assignment_04/lib_ds/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wall -Wextra -Wpedantic -Werror -O0 -g3 -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -o tests/list/CMakeFiles/tests_custom.dir/custom_tests.cpp.o -c /Users/sdebruijn/Desktop/APC/assignment_04/tests/list/custom_tests.cpp",
+  "file": "/Users/sdebruijn/Desktop/APC/assignment_04/tests/list/custom_tests.cpp",
+  "output": "tests/list/CMakeFiles/tests_custom.dir/custom_tests.cpp.o"
+},
+{
+  "directory": "/Users/sdebruijn/Desktop/APC/assignment_04/build",
+  "command": "/usr/bin/clang++ -I/Users/sdebruijn/Desktop/APC/assignment_04/lib_ds/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wall -Wextra -Wpedantic -Werror -O0 -g3 -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -o tests/list/CMakeFiles/tests_list.dir/test_runner.cpp.o -c /Users/sdebruijn/Desktop/APC/assignment_04/tests/list/test_runner.cpp",
+  "file": "/Users/sdebruijn/Desktop/APC/assignment_04/tests/list/test_runner.cpp",
+  "output": "tests/list/CMakeFiles/tests_list.dir/test_runner.cpp.o"
+},
+{
+  "directory": "/Users/sdebruijn/Desktop/APC/assignment_04/build",
+  "command": "/usr/bin/clang++ -I/Users/sdebruijn/Desktop/APC/assignment_04/lib_ds/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wall -Wextra -Wpedantic -Werror -O0 -g3 -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -o tests/list/CMakeFiles/tests_list.dir/list_tests.cpp.o -c /Users/sdebruijn/Desktop/APC/assignment_04/tests/list/list_tests.cpp",
+  "file": "/Users/sdebruijn/Desktop/APC/assignment_04/tests/list/list_tests.cpp",
+  "output": "tests/list/CMakeFiles/tests_list.dir/list_tests.cpp.o"
+},
+{
+  "directory": "/Users/sdebruijn/Desktop/APC/assignment_04/build",
+  "command": "/usr/bin/clang++ -I/Users/sdebruijn/Desktop/APC/assignment_04/lib_ds/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wall -Wextra -Wpedantic -Werror -O0 -g3 -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -o tests/list/CMakeFiles/tests_iterators.dir/test_runner.cpp.o -c /Users/sdebruijn/Desktop/APC/assignment_04/tests/list/test_runner.cpp",
+  "file": "/Users/sdebruijn/Desktop/APC/assignment_04/tests/list/test_runner.cpp",
+  "output": "tests/list/CMakeFiles/tests_iterators.dir/test_runner.cpp.o"
+},
+{
+  "directory": "/Users/sdebruijn/Desktop/APC/assignment_04/build",
+  "command": "/usr/bin/clang++ -I/Users/sdebruijn/Desktop/APC/assignment_04/lib_ds/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wall -Wextra -Wpedantic -Werror -O0 -g3 -fno-omit-frame-pointer -fsanitize=address -fsanitize=undefined -o tests/list/CMakeFiles/tests_iterators.dir/list_iterator_tests.cpp.o -c /Users/sdebruijn/Desktop/APC/assignment_04/tests/list/list_iterator_tests.cpp",
+  "file": "/Users/sdebruijn/Desktop/APC/assignment_04/tests/list/list_iterator_tests.cpp",
+  "output": "tests/list/CMakeFiles/tests_iterators.dir/list_iterator_tests.cpp.o"
+},
+{
+  "directory": "/Users/sdebruijn/Desktop/APC/assignment_04/build",
+  "command": "/usr/bin/clang++ -I/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/include -I/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.o"
+},
+{
+  "directory": "/Users/sdebruijn/Desktop/APC/assignment_04/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "output": "_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.o"
+},
+{
+  "directory": "/Users/sdebruijn/Desktop/APC/assignment_04/build",
+  "command": "/usr/bin/clang++ -I/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/include -I/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.o"
+},
+{
+  "directory": "/Users/sdebruijn/Desktop/APC/assignment_04/build",
+  "command": "/usr/bin/clang++ -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/include -isystem /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest -g -std=c++20 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -Wall -Wshadow -Werror -Wconversion -DGTEST_HAS_PTHREAD=1 -fexceptions -W -Wpointer-arith -Wreturn-type -Wcast-qual -Wwrite-strings -Wswitch -Wunused-parameter -Wcast-align -Wchar-subscripts -Winline -Wredundant-decls -o _deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/sdebruijn/Desktop/APC/assignment_04/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "output": "_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.o"
+}
+]

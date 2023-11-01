@@ -1,0 +1,5 @@
+if(EXISTS "/Users/sdebruijn/Desktop/APC/assignment_04/build/tests/list/tests_iterators[1]_tests.cmake")
+  include("/Users/sdebruijn/Desktop/APC/assignment_04/build/tests/list/tests_iterators[1]_tests.cmake")
+else()
+  add_test(tests_iterators_NOT_BUILT tests_iterators_NOT_BUILT)
+endif()
